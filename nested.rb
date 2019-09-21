@@ -14,6 +14,9 @@ def hopper
           :known_for => "Unix",
           :languages => ["C"]
         }
+        {:known_for => "COBOL",
+         :languages =>["COBOL", "FORTRAN"]
+        },
      }
 
 
