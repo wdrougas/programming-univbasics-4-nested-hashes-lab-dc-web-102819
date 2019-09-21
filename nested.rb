@@ -2,7 +2,8 @@
 def hopper
 	programmer_hash = 
  		{
-        
+        :known_for => "COBOL",
+        :languages => ["COBOL", "FORTRAN"]
         
         :grace_hopper => {
           :known_for => "COBOL",
