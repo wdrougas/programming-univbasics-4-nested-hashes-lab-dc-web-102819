@@ -15,11 +15,6 @@ def hopper
           :languages => ["C"]
         }
      }
-     
-programmer_hash[:known_for] = "COBOL"
-programmer_hash[:languages] = ["COBOL", "FORTRAN"]
-puts programmer_hash
-
 end
 
 def alan_kay_is_known_for
